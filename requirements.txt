@@ -1,0 +1,6 @@
+twilio
+openai
+python-dotenv
+flask
+pydub
+requests

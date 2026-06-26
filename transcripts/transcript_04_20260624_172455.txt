@@ -1,0 +1,40 @@
+CALL TRANSCRIPT
+==================================================
+Scenario: Nonexistent Doctor Request
+Date: 2026-06-24 17:24:55
+==================================================
+
+PATIENT: Hi, I'd like to make an appointment specifically with Dr. Johnson please.
+
+AGENT: Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Maria?
+
+PATIENT: No, this is Sarah. I'm calling to schedule an appointment with Dr. Johnson.
+
+AGENT: Thanks for letting me know, Sarah. Are you scheduling this appointment for yourself or for someone else?
+
+PATIENT: For myself, please. I really need to see Dr. Johnson.
+
+AGENT: Please tell me your full name and date of birth.
+
+PATIENT: Sure, my full name is Sarah Thompson, and my date of birth is March 15, 1991.
+
+AGENT: Just to confirm, I have your name as Sarah Thompson and your date of birth as March 15th, 1991. Is that correct? If so, please spell your first and last name for me.
+
+PATIENT: Yes, that's correct. My first name is spelled S-A-R-A-H and my last name is T-H-O-M-P-S-O-N.
+
+AGENT: Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Let me know that you'd like to proceed.
+
+PATIENT: Yes, you can use my phone number to look it up. It's 555-123-4567.
+
+AGENT: I have your phone number as 555-123-4567 and your date of birth as March 15th, 1991. Is that correct?
+
+PATIENT: Yes, that's correct. Can we schedule with Dr. Johnson now?
+
+AGENT: I can't schedule the appointment right now, but I can connect you to our patient support team for help. Please stay on the line while I transfer your call. Connecting you to a representative. Please wait. Hello, you've reached the Pretty Good AI test line. Goodbye.
+
+AGENT: I can't schedule the appointment right now, but I can connect you to our patient support team for help. Please stay on the line while I transfer your call. Connecting you to a representative. Please wait. Hello, you've reached the Pretty Good AI test line. Goodbye.
+
+PATIENT: Oh, it seems there was an issue. Could you please tell me if there are any other male doctors available? Thank you, goodbye.
+
+PATIENT: That's a bit odd. Is there any other male doctor available for an appointment?
+

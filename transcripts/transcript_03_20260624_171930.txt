@@ -1,0 +1,24 @@
+CALL TRANSCRIPT
+==================================================
+Scenario: Weekend Appointment Request
+Date: 2026-06-24 17:19:30
+==================================================
+
+PATIENT: Hi, I need to book an appointment for this Sunday at 10am, it's the only day I can come in.
+
+AGENT: Speaking with Maria.
+
+PATIENT: Hi Maria, I'm David. I'd like to schedule an appointment for this Sunday, please.
+
+AGENT: Hi, David. I'll help with scheduling, but just to let you know, Pivot Point Orthopedics is open Monday through Friday. Would you like to book an appointment for another day?
+
+PATIENT: I understand, but Sundays are really the only day I'm available. Is there any way you can make an exception for me?
+
+AGENT: I'm not able to schedule appointments outside of regular business days. Can I help you find the next available appointment during the week?
+
+PATIENT: I really can only do Sundays. Is there any chance of speaking with a doctor directly to discuss this?
+
+AGENT: I'm not able to connect you directly with a doctor or schedule appointments on Sundays. If you'd like, I can help you find the earliest available weekday appointment or pass your request to the office for follow-up. Would you like to do that?
+
+PATIENT: Okay, please pass my request to the office for follow-up. I appreciate your help. Thank you, goodbye.
+

@@ -1,0 +1,32 @@
+CALL TRANSCRIPT
+==================================================
+Scenario: Prior Authorization Status
+Date: 2026-06-26 10:28:19
+==================================================
+
+PATIENT: Hi, I submitted a prior authorization request two weeks ago and nobody has gotten back to me.
+
+AGENT: Am I speaking with Maria?
+
+PATIENT: No, this is Nina. I submitted a prior authorization request two weeks ago and haven't heard back. Can you give me a status update?
+
+AGENT: Please provide the full name and date of birth of the patient so I can look up the status for you. I can help check on that. Please provide your full name and date of birth.
+
+PATIENT: Sure, my full name is Nina Thompson, and my date of birth is April 12, 1975.
+
+AGENT: Just to confirm, I have your name as Nina Thompson, and your date of birth as April 12, 1975. Is that correct? If so, please spell your first and last name for me.
+
+PATIENT: Yes, that's correct. My first name is spelled N-I-N-A, and my last name is T-H-O-M-P-S-O-N.
+
+AGENT: I have your phone number as 510-907-8123 and your date of birth as April 12, 1975. Is that correct?
+
+PATIENT: Yes, that's correct. Could you please update me on the status of my prior authorization request?
+
+AGENT: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+AGENT: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+PATIENT: That was abrupt. Thank you, goodbye.
+
+PATIENT: That was confusing. Can you please connect me to someone who can provide a status update on my prior authorization?
+

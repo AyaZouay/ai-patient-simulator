@@ -1,0 +1,36 @@
+CALL TRANSCRIPT
+==================================================
+Scenario: Wrong Date of Birth
+Date: 2026-06-24 17:31:20
+==================================================
+
+PATIENT: Hi, I need to reschedule my appointment for next Monday please.
+
+AGENT: pivot point orthopedics, part of Pretty Good AI. Am I speaking with Maria?
+
+PATIENT: No, this is Robert speaking. I might have called the wrong number, but I was hoping to verify or update some of my information.
+
+AGENT: Can you please provide your full name and date of birth?
+
+PATIENT: Sure, my full name is Robert Smith. My date of birth is January 1, 1970.
+
+AGENT: Just to confirm, I have your name as Robert Smith and your date of birth as January 1st, 1970. Is that correct? If so, please spell your first and last name for me.
+
+PATIENT: Oh, I think I might have gotten the date wrong. Let me try again. My birthday is... um... February 15, 1965. My name is spelled R-O-B-E-R-T S-M-I-T-H.
+
+AGENT: Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us. If you're not sure, just confirm your first and last name and date of birth for me one more time.
+
+PATIENT: I think using my phone number might be easier. It's 555-123-4567. My name is Robert Smith, and my birthday... I'm not sure. Was it February 16th, 1965?
+
+AGENT: I have your name as Robert Smith. To confirm, is your date of birth February 16, 1965?
+
+PATIENT: Yes, let's go with that. Sorry for the confusion earlier.
+
+AGENT: Thanks for confirming, Robert. I can't pass any further right now, but I'll make sure our clinic support team follows up with you. Please stay on the line while I document this for our team. Connecting you to a representative. Please wait. Hello, you've reached the Pretty Good AI test line. Goodbye.
+
+AGENT: Thanks for confirming, Robert. I can't pass any further right now, but I'll make sure our clinic support team follows up with you. Please stay on the line while I document this for our team. Connecting you to a representative. Please wait. Hello, you've reached the Pretty Good AI test line. Goodbye.
+
+PATIENT: Thank you, goodbye.
+
+PATIENT: Thank you, goodbye.
+

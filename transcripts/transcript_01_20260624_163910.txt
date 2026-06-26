@@ -1,0 +1,44 @@
+CALL TRANSCRIPT
+==================================================
+Scenario: Simple Appointment Scheduling
+Date: 2026-06-24 16:39:10
+==================================================
+
+PATIENT: Hi, I'd like to schedule an appointment please.
+
+AGENT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Maria?
+
+PATIENT: Yes, this is Maria. I'd like to schedule a new appointment for next week, preferably in the morning.
+
+AGENT: Please provide your date of birth.
+
+PATIENT: Sure, it's March 5, 1978.
+
+AGENT: The birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?
+
+PATIENT: I'd like to schedule a new appointment for next week, preferably in the morning.
+
+AGENT: Are you a new patient to Pivot Point Orthopedics or have you seen one of our providers before?
+
+PATIENT: I'm a new patient.
+
+AGENT: Thanks Maria. Do you have a specific provider you'd like to see or are you open to the first available?
+
+PATIENT: I'm open to the first available provider.
+
+AGENT: Let me check for new patient appointments next week in the morning with the first available provider. It looks like you already have a new patient appointment booked. If you want to reschedule or cancel that appointment, I can help. Would you like to make a change to your existing appointment?
+
+PATIENT: Oh, I wasn't aware of an existing appointment. Can you confirm the date and time for me, please?
+
+AGENT: I don't have access to your exact appointment details but the clinic staff can confirm that for you. Would you like me to transfer you to a team member who can provide the date and time? I can't see the exact date and time of your existing appointment but I can connect you with a team member who can look that up for you. Would you like me to transfer you now?
+
+PATIENT: Yes, please transfer me to someone who can provide those details. Thank you.
+
+AGENT: Transferring you now to a team member who can confirm your appointment details. One moment.
+
+PATIENT: Thank you.
+
+AGENT: You're welcome. Connecting you now. You're welcome. I'll transfer you now.
+
+PATIENT: Thank you, goodbye.
+

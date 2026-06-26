@@ -1,0 +1,24 @@
+CALL TRANSCRIPT
+==================================================
+Scenario: Repeat the Same Question Three Times
+Date: 2026-06-26 10:24:30
+==================================================
+
+PATIENT: Hi, I just have a quick question about insurance.
+
+AGENT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Maria?
+
+PATIENT: No, this is Linda. I was wondering, what insurance do you accept?
+
+AGENT: We accept most major insurance plans at Pivot Point Orthopedics. If you have a specific insurance provider in mind, I can check for you. Would you like to know about a particular plan?
+
+PATIENT: Oh, I see. What insurance do you accept?
+
+AGENT: We accept most major insurance plans, including commercial, Medicare, and many employer-based plans. If you want to check a specific insurance company, just let me know the name and I can confirm for you.
+
+PATIENT: Okay, thank you. Could you tell me again, what insurance do you accept?
+
+AGENT: We accept most commercial insurance plans, Medicare, and many employer-based plans. If you want to check a specific insurance company, just let me know the name.
+
+PATIENT: Alright, thank you for letting me know. That's very helpful. Thank you, goodbye.
+

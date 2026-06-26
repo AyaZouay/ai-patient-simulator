@@ -1,0 +1,36 @@
+CALL TRANSCRIPT
+==================================================
+Scenario: Impossible Date Request
+Date: 2026-06-26 15:59:40
+==================================================
+
+PATIENT: Hi, I'd like to schedule an appointment for February 30th please.
+
+AGENT: Point Orthopedics, part of Pretty Good AI. Am I speaking with Maria?
+
+PATIENT: No, this is Christina. I'm calling to schedule an appointment.
+
+AGENT: Please provide the patient's full name and date of birth.
+
+PATIENT: Sure, my full name is Christina Johnson, and my date of birth is March 15, 1987.
+
+AGENT: Just to confirm, I have your name as Christina Johnson and your date of birth as March 15th, 1987. Is that correct? If so, could you please spell your first and last name for me?
+
+PATIENT: Yes, that's correct. Christina is C-H-R-I-S-T-I-N-A and Johnson is J-O-H-N-S-O-N.
+
+AGENT: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer? Would you like to use your phone number to look up your record? If so, please tell me the number you have on file.
+
+PATIENT: Sure, my phone number is 555-123-4567.
+
+AGENT: I have your phone number as 555-123-4567 and your date of birth as March 15th, 1987. Is that correct?
+
+PATIENT: Yes, that's correct.
+
+AGENT: I can't schedule the appointment right now, but I'll connect you to our patient support team for help. Please stay on the line. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+AGENT: I can't schedule the appointment right now, but I'll connect you to our patient support team for help. Please stay on the line. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+PATIENT: Thank you, goodbye.
+
+PATIENT: Thank you, goodbye.
+

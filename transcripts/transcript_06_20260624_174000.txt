@@ -1,0 +1,16 @@
+CALL TRANSCRIPT
+==================================================
+Scenario: Complete Silence Then Speak
+Date: 2026-06-24 17:40:00
+==================================================
+
+PATIENT: Oh sorry, hi, I was having trouble with my phone. What are your office hours?
+
+AGENT: pivot point orthopedics part of pretty good AI my speaking with Maria
+
+PATIENT: Oh, sorry about that, I was just fumbling with my phone. No, this is Emma. Could you please tell me your office hours?
+
+AGENT: Our clinic is open Monday, Tuesday, and Thursday from 9 a.m. to 4 p.m., Wednesday from 12 p.m. to 7 p.m., and Friday from 9 a.m. to 12 p.m. We know if you need anything else.
+
+PATIENT: Thank you for the information. That's all I needed. Goodbye.
+

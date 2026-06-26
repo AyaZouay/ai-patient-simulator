@@ -1,0 +1,40 @@
+CALL TRANSCRIPT
+==================================================
+Scenario: Completely Off Topic Question
+Date: 2026-06-26 10:20:49
+==================================================
+
+PATIENT: Hey there, crazy weather we've been having right? Anyway I had a question.
+
+AGENT: It really has been wild lately, what can I help you with today?
+
+PATIENT: I was just wondering, did you catch the game last night? It was intense!
+
+AGENT: I didn't catch it, but it sounds like it was exciting. How can I help you with your orthopedic care today?
+
+PATIENT: Oh, no worries. By the way, have you heard about the weather this week? I hope it's going to be nice.
+
+AGENT: I've heard of my clear up soon. Is there anything I can help you with at Pivot Point Orthopedics today?
+
+PATIENT: Yeah, I guess I should schedule an appointment. Can you help me with that?
+
+AGENT: Can you please provide your date of birth?
+
+PATIENT: Sure, it's March 15, 1994.
+
+AGENT: Thanks. What kind of appointment would you like to schedule? Is this for a new concern, a follow-up, or something else?
+
+PATIENT: It's for a new concern. I've been having some knee pain lately.
+
+AGENT: Would you say your knee pain needs urgent attention or is it more of a routine concern?
+
+PATIENT: It's more of a routine concern, nothing urgent.
+
+AGENT: Do you have a provider you prefer to see or are you open to anyone available?
+
+PATIENT: I'm open to seeing anyone available.
+
+AGENT: It looks like you already have an appointment scheduled for a routine knee pain visit. If you'd like, I can help you reschedule or cancel that appointment. Would you like to make a change, or do you need help with something else?
+
+PATIENT: Oh, that's great! I didn't realize I had it scheduled already. No changes needed then. Thank you, goodbye.
+
